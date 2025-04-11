@@ -25,28 +25,15 @@ When I'm not engineering data workflows, you can find me exploring:
 - 🤖 **Machine Learning & AI**
 - 🖼️ **Data Visualization**
 - ⚡ **Workflow Automation**
-
+  
 ---
 
-## 💻 Projects
-Here are some of the exciting projects I've worked on:
-
-- **[Data Pipeline for E-commerce Analytics](#)**  
-  Built a scalable data pipeline using **Airflow** and **PySpark** to process and analyze e-commerce data for customer behavior insights.
-
-- **[Real-Time Data Processing with AWS](#)**  
-  Developed a real-time data ingestion and processing system using **AWS Lambda**, **Kinesis**, and **S3**.
-
-- **[Interactive Data Dashboard](#)**  
-  Created an interactive dashboard using **Python Dash** and **Plotly** to visualize key business metrics.
-
----
 
 ## 📫 Let's Connect!
 Feel free to reach out or connect with me on:  
-- [💼 LinkedIn](#)  
-- [🐦 Twitter](#)  
-- [📧 Email](mailto:your-email@example.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/eben-quayson/)  
+- [🐦 Twitter](https://x.com/EbenQuayson)  
+- [📧 Email](quaysonebenezerawudzi@gmail.com)
 
 ---
 
