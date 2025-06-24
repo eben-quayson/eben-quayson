@@ -1,6 +1,6 @@
 # 🌟 About Me
 
-Hello there! I'm **Eben Quayson**, a passionate **Data Engineer** who loves turning raw data into actionable insights. With a strong foundation in modern technologies and tools, I enjoy solving complex problems and building reliable data pipelines. 🚀
+Hello there! I'm **Ebenezer Quayson**, a passionate **Data Engineer** who loves turning raw data into actionable insights. With a strong foundation in modern technologies and tools, I enjoy solving complex problems and building reliable data pipelines. 🚀
 
 ---
 
@@ -21,10 +21,8 @@ Here are some of the tools and technologies I work with:
 When I'm not engineering data workflows, you can find me exploring:
 
 - 📈 **Big Data Analytics**
-- 🌩️ **Cloud Computing**
 - 🤖 **Machine Learning & AI**
 - 🖼️ **Data Visualization**
-- ⚡ **Workflow Automation**
   
 ---
 
